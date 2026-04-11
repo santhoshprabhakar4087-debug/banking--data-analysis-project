@@ -24,6 +24,9 @@ This project analyzes sales and customer data using SQL, Python, and Power BI to
 - KPI metrics
 - Data visualization
 
+##Dashboard Screenshoot
+![Dashboard](Dashboard.png)
+
 ## 🚀 How to Run
 1. Import the SQL file into MySQL
 2. Load the dataset
